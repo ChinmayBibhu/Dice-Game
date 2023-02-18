@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    font-size: 32px;
+}
+h1{
+    color:yellow;
+    text-align: center; 
+    margin-top:100px;
+   
+}
+.h2{
+    position: absolute;
+    
+    color:blue;
+    margin-left:350px;
+}
+.hh{
+    position:absolute;
+    color:blue;
+    margin-left:720px;
+    margin-bottom: 800px;
+}
+#p1{
+    margin-top: 90px;
+    margin-left: 300px;
+}
+#p2{
+    margin-left:100px;
+}
